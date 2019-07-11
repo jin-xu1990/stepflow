@@ -2,11 +2,11 @@
 
 # USQL查询
 
-USQL查询 功能使用USQL产品，将用户事先在USQL尚保存的分析SQL执行并获得SQL查询结果下载URL地址
+USQL查询 功能使用USQL产品，将用户事先在USQL尚保存的分析SQL执行并获得SQL查询结果下载URL地址。
 
 ## 输入定义
 
-NamedQueryId：已命名查询的Id
+NamedQueryId：已命名查询的Id 
 
 Region：当前region
 
